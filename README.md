@@ -26,7 +26,7 @@ This is the website for the Crypto Wallet application, built with **React.js** a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/crypto-wallet-frontend.git
+    gh repo clone Ajju0211/walletextension-website
     cd crypto-wallet-frontend
     ```
 
